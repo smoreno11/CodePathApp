@@ -19,6 +19,16 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
+<div>
+    <a href="https://www.loom.com/share/bd61e06c3c4b42848a8c0036641f48d1">
+    </a>
+    <a href="https://www.loom.com/share/bd61e06c3c4b42848a8c0036641f48d1">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/bd61e06c3c4b42848a8c0036641f48d1-42f1fb179ae24722-full-play.gif">
+    </a>
+  </div>
+
+https://i.imgur.com/hWpERbN.gif
+
 ## App Brainstorming (Step 4)
 
 - [ ] Allowing a feature to look at your post history
