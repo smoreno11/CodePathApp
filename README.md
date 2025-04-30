@@ -21,9 +21,9 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
--[] Allowing a feature to look at your post history
--[] Changing the post for them to be in chronological order
--[] Turn off likes on old post without having to go to settings
+- [ ] Allowing a feature to look at your post history
+- [ ] Changing the post for them to be in chronological order
+- [ ] Turn off likes on old post without having to go to settings
 
 We have all used some type of social media. Most people find it absurd that we 
 cannot see all the post in chronological order. We should also be able to see all 
