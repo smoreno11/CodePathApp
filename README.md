@@ -1,40 +1,34 @@
-# Prework - *Rando*
+# Project 1 - *Wordle*
 
 Submitted by: **Saul Moreno**
 
-**Rando** is an app that... [TODO] 
+**Wordle** is an app that ... [TODO] 
 
-Time spent: **1** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
- 
+- [x] App displays a keyboard on the screen
+- [x] When tapping on the keyboard, a letter is shown or deleted (letter selected)
+- [x] User can play a basic version of Wordle, with different goal words each time
+
+The following **optional** features are implemented:
+
+- [ ] Improve and customize the user interface by adding a launchscreen and app icon
+- [ ] Run the app on a device rather than in the simulator
+
+The following **additional** features are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality!
+
 ## Video Walkthrough
 
-<div>
-    <a href="https://www.loom.com/share/bd61e06c3c4b42848a8c0036641f48d1">
-    </a>
-    <a href="https://www.loom.com/share/bd61e06c3c4b42848a8c0036641f48d1">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/bd61e06c3c4b42848a8c0036641f48d1-42f1fb179ae24722-full-play.gif">
-    </a>
-  </div>
+Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-https://i.imgur.com/hWpERbN.gif
+[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
-## App Brainstorming (Step 4)
-
-- [ ] Allowing a feature to look at your post history
-- [ ] Changing the post for them to be in chronological order
-- [ ] Turn off likes on old post without having to go to settings
-
-We have all used some type of social media. Most people find it absurd that we 
-cannot see all the post in chronological order. We should also be able to see all 
-the previous post we have looked at since sometimes we want to see a post, but 
-leave the app and when we come back it has refreshed. 
 
 ## Notes
 
